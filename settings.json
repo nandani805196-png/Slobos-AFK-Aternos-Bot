@@ -9,7 +9,7 @@
     "ip": "Hypixel901.aternos.me",
     "port": 60307,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
